@@ -8,7 +8,12 @@ When you're thinking of something, type it out in Notepad. Keep saving it to you
 
 Be aware though that your Desktop displays the contents of more than just one folder. The two main folders are:
 
-1.	C:\Users\<name>\Desktop
-2.	C:\Users\Public\Desktop
+1.	This is your Desktop folder:
+
+		C:\Users\<name>\Desktop
+
+2.	This is your Public Desktop folder:
+
+		C:\Users\Public\Desktop
 
 Only the contents of your <name> folder will be moved. The contents of your Public Desktop folder will remain where they are.
