@@ -20,4 +20,4 @@ Be aware though that your Desktop displays the contents of more than just one fo
 
 		C:\Users\Public\Desktop
 
-Only the contents of your <name> folder will be moved. The contents of your Public Desktop folder will remain where they are.
+The contents of the Public Desktop is seen by everyone who has an account on your PC. Only the contents of your <name> Desktop folder will be moved. The contents of the Public Desktop folder will remain where they are.
