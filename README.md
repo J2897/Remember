@@ -14,10 +14,10 @@ Be aware though that your Desktop displays the contents of more than just one fo
 
 1.	This is your Desktop folder:
 
-		C:\Users\<name>\Desktop
+		C:\Users\<name>\Desktop\
 
 2.	This is your Public Desktop folder:
 
-		C:\Users\Public\Desktop
+		C:\Users\Public\Desktop\
 
 The contents of the Public Desktop is seen by everyone who has an account on your PC. Only the contents of your <name> Desktop folder will be moved. The contents of the Public Desktop folder will remain where they are.
